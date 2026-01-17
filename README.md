@@ -22,11 +22,9 @@
 
 ### ☁️ DevOps y Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🚀 Proyectos Destacados
-
-✏️ Añade aquí tus proyectos más representativos (de 1 a 3). Incluye una breve descripción y tecnologías clave.
 
 💡 **Ejemplo:**
 
@@ -35,17 +33,9 @@
 App de gestión de tareas colaborativa en tiempo real.  
 **Tecnologías:** React, Firebase, Tailwind CSS
 
-### 📌 [API REST de Películas](https://github.com/tuusuario/movies-api)
-
-API REST para explorar y filtrar películas con autenticación JWT.  
-**Tecnologías:** Node.js, Express, MongoDB
 
 ## 📫 Contacto
 
-✏️ Agrega tus medios de contacto preferidos. Puedes usar solo texto, íconos o badges.
-
 ```md
-- 📧 Correo: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portafolio: [tusitio.dev](https://tusitio.dev)
+- 📧 Correo: dweb17@sicas.com.mx
 ```
